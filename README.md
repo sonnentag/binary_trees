@@ -21,3 +21,17 @@ go through a binary tree using post-order traversal
 that measures the height of a binary tree
 #### 10-binary_tree_depth.c
 find depth of a binary tree node
+#### 11-binary_tree_size.c
+measures the size of a binary tree
+#### 12-binary_tree_leaves.c
+checks is a node is a leaf
+#### 13-binary_tree_nodes.c
+count nodes with at least 1 child
+#### 14-binary_tree_balance.c
+that measures the balance of a binary tree
+#### 15-binary_tree_is_full.c
+check if a binary tree is "full"
+#### 17-binary_tree_sibling.c
+find sibling of node
+#### 18-binary_tree_uncle.c
+find uncle of node
