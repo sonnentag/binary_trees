@@ -38,7 +38,7 @@ int is_perfect(const binary_tree_t *tree, int h, int level)
 
 	}
 
-	return (1);
+	return (0);
 }
 
 /**
