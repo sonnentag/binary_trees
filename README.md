@@ -31,6 +31,8 @@ count nodes with at least 1 child
 that measures the balance of a binary tree
 #### 15-binary_tree_is_full.c
 check if a binary tree is "full"
+#### 16-binary_tree_is_perfect.c
+check if binary tree is perfect
 #### 17-binary_tree_sibling.c
 find sibling of node
 #### 18-binary_tree_uncle.c
